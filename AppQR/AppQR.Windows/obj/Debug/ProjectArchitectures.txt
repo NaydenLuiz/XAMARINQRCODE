@@ -1,0 +1,2 @@
+c:\users\nayden\documents\visual studio 2015\Projects\AppQR\AppQR\AppQR.Windows\AppQR.Windows.csproj;neutral
+c:\users\nayden\documents\visual studio 2015\Projects\AppQR\AppQR\AppQR\AppQR.csproj;neutral
